@@ -1,7 +1,7 @@
-#Project 15: eccomerce data pipeline
+# Project 15: eccomerce data pipeline
 
 
-##Description
+## Description
 this project involves, creating data pipeline, extract transform and load data into warehouse, and then use power bi for visualisation
 
 
@@ -27,20 +27,20 @@ This project involves
 
 ### Sales Trends
 - **Total Sales by Month**: Sales vary month-to-month with the highest in August 2002.
-  ![total quantity sold by Month](C:\Users\gudex\OneDrive\Desktop\Projects\screens\pro15\Capture.png)
+  ![total quantity sold by Month](screens\capture.png)
 - **Total Sales by Product**: The highest revenue was from Spring Roll Veg Mini.
-  ![Total Sales by Product](C:\Users\gudex\OneDrive\Desktop\Projects\screens\pro15\2.png)
-  (C:\Users\gudex\OneDrive\Desktop\Projects\screens\pro15/3.png)
+  ![Total Sales by Product](screens\2.png) ![Second Image](screens/3.png)
+
 
 ### Customer Behavior
 - **Total Orders and Spending**: Jeremy Smith spent the most overall, while Alison Alvarez made the most orders.
-  ![Total Orders and Spending](C:\Users\gudex\OneDrive\Desktop\Projects\screens\pro15\4.png)
+  ![Total Orders and Spending](screens\4.png)
 
 ### Product Performance
 - **Top 10 Products by Quantity Sold**: Muffin Batt - Blueberry Passion and Muffin Batt - Carrot Spice were top sellers.
-  ![Top 16 Products by Quantity Sold](C:\Users\gudex\OneDrive\Desktop\Projects\screens\pro15\5.png)
+  ![Top 16 Products by Quantity Sold](screens\5.png)
 - **Product Ratings**: Bagelers - Cinn/Brown Sugar had the highest rating.
-  ![Product Ratings](C:\Users\gudex\OneDrive\Desktop\Projects\screens\pro15\6.png)
+  ![Product Ratings](screens\6.png)
 
 ## Limitations of Data
 This analysis is based on randomly generated data, which may not accurately reflect real-world scenarios. The insights derived are purely for demonstration purposes and may not provide meaningful business insights.
@@ -48,9 +48,3 @@ This analysis is based on randomly generated data, which may not accurately refl
 ## Conclusion
 This project demonstrates the ability to analyze e-commerce data using SQL and visualize insights using Power BI.
 
-
-![Total Sales by Month](C:/Users/gudex/OneDrive/Desktop/Projects/screens/pro15/Capture.png)
-![Total Sales by Product](C:/Users/gudex/OneDrive/Desktop/Projects/screens/pro15/2.png)
-![Total Orders and Spending](C:/Users/gudex/OneDrive/Desktop/Projects/screens/pro15/4.png)
-![Top 10 Products by Quantity Sold](C:/Users/gudex/OneDrive/Desktop/Projects/screens/pro15/5.png)
-![Product Ratings](C:/Users/gudex/OneDrive/Desktop/Projects/screens/pro15/6.png)
