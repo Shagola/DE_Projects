@@ -5,6 +5,7 @@
 this project involves, creating data pipeline, extract transform and load data into warehouse, and then use power bi for visualisation
 
 
+
 This project involves 
 ## Tools and Technologies
 - Amazon Redshift
@@ -27,20 +28,20 @@ This project involves
 
 ### Sales Trends
 - **Total Sales by Month**: Sales vary month-to-month with the highest in August 2002.
-  ![total quantity sold by Month](screens\capture.png)
+  ![total quantity sold by Month](screens/capture.png)
 - **Total Sales by Product**: The highest revenue was from Spring Roll Veg Mini.
-  ![Total Sales by Product](screens\2.png) ![Second Image](screens/3.png)
+  ![Total Sales by Product](screens/2.png) ![Second Image](screens/3.png)
 
 
 ### Customer Behavior
 - **Total Orders and Spending**: Jeremy Smith spent the most overall, while Alison Alvarez made the most orders.
-  ![Total Orders and Spending](screens\4.png)
+  ![Total Orders and Spending](screens/4.png)
 
 ### Product Performance
 - **Top 10 Products by Quantity Sold**: Muffin Batt - Blueberry Passion and Muffin Batt - Carrot Spice were top sellers.
-  ![Top 16 Products by Quantity Sold](screens\5.png)
+  ![Top 16 Products by Quantity Sold](screens/5.png)
 - **Product Ratings**: Bagelers - Cinn/Brown Sugar had the highest rating.
-  ![Product Ratings](screens\6.png)
+  ![Product Ratings](screens/6.png)
 
 ## Limitations of Data
 This analysis is based on randomly generated data, which may not accurately reflect real-world scenarios. The insights derived are purely for demonstration purposes and may not provide meaningful business insights.
