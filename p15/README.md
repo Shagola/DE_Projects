@@ -1,4 +1,4 @@
-# Project 15: eccomerce data pipeline
+# Project 15: E-Commerce data pipeline
 
 
 ## Description
@@ -13,6 +13,10 @@ This project involves
 - Power BI
 - SQL
 - python
+
+## Data model
+Here is the data model used in this project:
+![Data Model](screens/capt7.PNG)
 
 ## Setup Instructions
 1. Clone the already transformed csv files.
@@ -47,5 +51,6 @@ This project involves
 This analysis is based on randomly generated data, which may not accurately reflect real-world scenarios. The insights derived are purely for demonstration purposes and may not provide meaningful business insights.
 
 ## Conclusion
-This project demonstrates the ability to analyze e-commerce data using SQL and visualize insights using Power BI.
-
+This project showcases the integration of data engineering, API usage, and business intelligence to derive insights from e-commerce data. Key steps - Data extraction, Data generation,
+data transformation, data loading, data analysis, data visualization.
+By following these steps, I demonstrated the end-to-end process of setting up a data pipeline, from data extraction to visualization. This workflow is essential for modern data engineering and business intelligence, providing actionable insights that can drive strategic decisions in e-commerce.

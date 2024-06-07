@@ -15,6 +15,6 @@ def remove_order_item_id_in_place(file_path):
             del row['order_item_id']
             writer.writerow(row)
 
-# Path to your CSV file
+# Path to  CSV file
 file_path = 'order_items.csv'
 remove_order_item_id_in_place(file_path)
