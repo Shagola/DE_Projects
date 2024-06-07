@@ -28,14 +28,14 @@ This project involves
 
 ### Sales Trends
 - **Total Sales by Month**: Sales vary month-to-month with the highest in August 2002.
-  ![total quantity sold by Month](screens/capture.png)
+  ![total quantity sold by Month](https://github.com/Shagola/p15-/blob/main/p15/screens/Capture.PNG?raw=true)
 - **Total Sales by Product**: The highest revenue was from Spring Roll Veg Mini.
-  ![Total Sales by Product](screens/2.png) ![Second Image](screens/3.png)
+  ![Total Sales by Product](screens/2.png) ![Second Image](screens/3.PNG)
 
 
 ### Customer Behavior
 - **Total Orders and Spending**: Jeremy Smith spent the most overall, while Alison Alvarez made the most orders.
-  ![Total Orders and Spending](screens/4.png)
+  ![Total Orders and Spending](screens/4.PNG)
 
 ### Product Performance
 - **Top 10 Products by Quantity Sold**: Muffin Batt - Blueberry Passion and Muffin Batt - Carrot Spice were top sellers.
