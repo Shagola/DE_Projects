@@ -2,11 +2,9 @@
 
 
 ## Description
-this project involves, creating data pipeline, extract transform and load data into warehouse, and then use power bi for visualisation
+This project involves creating a data pipeline, extracting, transforming, and loading data into a warehouse, and then using Power BI for visualization. The data extracted via the API was insufficient as it was designed for a fake e-commerce website and lacked orders, users, etc. Therefore, I generated the missing data using libraries like Faker.
 
 
-
-This project involves 
 ## Tools and Technologies
 - Amazon Redshift
 - Amazon s3
