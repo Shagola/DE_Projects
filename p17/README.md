@@ -1,16 +1,20 @@
 # Weather Data Pipeline Project
 
 
+
 ## Overview
 
 
 This project automates the process of fetching, processing, and storing weather data every hour using a combination of AWS services and Snowflake. The pipeline involves fetching data from a weather API, storing it in DynamoDB, processing streams, saving it in S3, and loading it into Snowflake for analysis.
 
+
+
 ## Prerequisites
 
--AWS Account
--Snowflake Account
--Weather API Key
+- AWS Account
+- Snowflake Account
+- Weather API Key
+
 
 
 ## Architecture
@@ -23,6 +27,7 @@ This project automates the process of fetching, processing, and storing weather 
 5. **S3 Bucket:** Store processed data in CSV format
 6. **Snowpipe:** Notify Snowflake when new data is available in S3
 7. **Snowflake:** Load data from S3 into Snowflake for analysis
+
 
 ## Steps
 
@@ -58,6 +63,7 @@ Create a database and table in Snowflake to store the weather data.
 ### 8. Querying Data in Snowflake
 
 Run queries in Snowflake to verify data loading and analyze the weather data.
+
 
 
 ## Conclusion
