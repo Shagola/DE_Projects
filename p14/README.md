@@ -22,7 +22,7 @@ This project involves analyzing a survey dataset of data professionals, focusing
 
 
 ## Screenshot
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](dashboard.PNG)
 
 ## Conclusion
 This project serves as a demonstration of my ability to use Power BI for data analysis and visualization. It highlights my skills in data transformation with Power Query and my ability to create informative and interactive visualizations.
